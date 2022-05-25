@@ -1,0 +1,32 @@
+:root {
+    --main-color: #3557a2;
+    --red-color: #e82d50
+}
+
+body {
+    font-family: Helvetica;
+}
+
+.bg-red {
+    background-color: var(--red-color);
+}
+
+.text-red {
+    color: var(--red-color);
+}
+
+.bg-main {
+    background-color: var(--main-color);
+}
+
+.text-white {
+    color: whitesmoke;
+}
+
+.text-main {
+    color: var(--main-color)
+}
+
+.stronger {
+    font-size: 64pt!important;
+}
