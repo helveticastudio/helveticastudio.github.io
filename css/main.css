@@ -5,6 +5,7 @@
 
 body {
     font-family: Helvetica;
+    overflow: hidden;
 }
 
 .bg-red {
